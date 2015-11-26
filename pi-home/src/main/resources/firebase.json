@@ -1,0 +1,9 @@
+{
+  "firebase": "pi-home",
+  "public": "static",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
